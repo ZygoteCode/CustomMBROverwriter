@@ -23,7 +23,7 @@ public class Program
             }
         }
 
-        Console.Title = "CustomMBROverwriter | Made by https://github.com/GabryB03/";
+        Console.Title = "CustomMBROverwriter | Made by https://github.com/ZygoteCode/";
         Console.WriteLine("[Confirmation 1/2] Are you sure you want to overwrite your MBR? (y/n)");
         string color = "", text = "";
 
